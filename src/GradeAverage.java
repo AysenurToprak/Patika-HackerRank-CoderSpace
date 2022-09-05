@@ -25,7 +25,7 @@ public class GradeAverage {
 
         int total = math+physics+turkish+chemistry+history+music;
         double average = total/6;
-        String a = (average >= 60) ? "Geçtiniz" : "Kaldınız";
-        System.out.println(a);
+        String b = (average >= 60) ? "Geçtiniz" : "Kaldınız";
+        System.out.println(b);
     }
 }
