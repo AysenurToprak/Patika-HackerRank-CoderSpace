@@ -1,5 +1,3 @@
-package pentagonalNumber;
-
 import java.util.Scanner;
 /*Dışarıda verilen bir sayı nokta oluşturuluyor ve bu nokta  ile beşgen oluşturuluyor. N. iterasyonda toplam kaç tane nokta
 olduğunu bulan algoritma yazılmıştır. Her adım bir önceki adımı kapsayacak şekilde beşge oluşturacaktır. */
